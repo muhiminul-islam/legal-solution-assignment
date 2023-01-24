@@ -1,0 +1,31 @@
+body{
+    font-family: 'EB Garamond', serif;
+}
+
+/* banner section */
+.bg-img{
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    width: auto;
+    height: 800px;
+}
+
+/* client section */
+.client-img-1{
+    background-image: url('../images/slider-1.jpg');
+    height: 75vh;
+}
+.client-img-2{
+    background-image: url('../images/slider-2.jpg');
+    height: 75vh;
+    
+}
+.client-img-3{
+    background-image: url('../images/slider-3.jpg');
+    height: 75vh;
+}
+/* list  */
+.list li{
+    list-style: none;
+    
+}
